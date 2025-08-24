@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neelu</h1>
-<h3 align="center">I am an AI/ML and NLP developer from India. I enjoy building intelligent applications, from toxicity classifiers to interactive front-end apps with Streamlit. Alongside AI/ML, I am learning JavaScript and databases like SQL to strengthen my full-stack development skills.</h3>
+<h3 align="center">I am an  developer from India. I enjoy building intelligent applications, from toxicity classifiers to interactive front-end apps with Streamlit. Alongside AI/ML, I am learning JavaScript and databases like SQL to strengthen my full-stack development skills.</h3>
 
 - 🔭 I’m currently working on **Working on AI/ML Projects**
 
